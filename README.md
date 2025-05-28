@@ -1,4 +1,4 @@
-# 👋 Hi! I'm [Your Name]
+# 👋 Hi! I'm Aiman
 
 I'm a second-year Blockchain student learning how to build decentralized applications and smart contracts.
 
