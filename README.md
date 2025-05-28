@@ -1,14 +1,13 @@
 # 👋 Hi! I'm Aiman
 
-I'm a second-year Blockchain student learning how to build decentralized applications and smart contracts.
-
-🔭 I’m currently working on: **SciChainX** – A decentralized scientific publishing protocol
+I'm a second-year Blockchain student learning how to build decentralized applications and smart contracts. This GitHub profile tracks my journey in Web3 development.
 
 🌱 I’m learning: Solidity, Ethereum, Smart Contracts, Zero-Knowledge Proofs
 
-💡 Projects:
-- SciChainX Frontend & Backend (WIP)
-- Coming Soon: Voting DApp, NFT Minter DApp
+📚 Goals for 2025:
+- Build 3 complete DApps
+- Contribute to one open-source Web3 project
+- Learn Zero-Knowledge Proofs
 
 🛠️ Tools & Tech: 
 Solidity · Hardhat · IPFS · Node.js · React · Git · GitHub
