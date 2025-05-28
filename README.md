@@ -1,6 +1,6 @@
 # 👋 Hi! I'm [Your Name]
 
-I'm a first-year Blockchain student learning how to build decentralized applications and smart contracts.
+I'm a second-year Blockchain student learning how to build decentralized applications and smart contracts.
 
 🔭 I’m currently working on: **SciChainX** – A decentralized scientific publishing protocol
 
