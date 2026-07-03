@@ -1,5 +1,5 @@
 # 💫 About Me:
-Blockchain student with a knack for turning complex ideas into real-world solutions. From C++ and Java to Solidity and full-stack wizardry, I've built everything from a personalized study scheduler to a blockchain-based digital inheritance wallet. Currently diving deep into JavaScript, React, Node.js, and smart contract security, because why not? I love sharing my journey, building in public, and collaborating to push Web3 forward. Looking for founders and HRs who want a passionate, quick-learning developer to bring secure, scalable blockchain magic to life.
+Blockchain & frontend developer. Built a decentralized inheritance system on Stellar, shipped production React interfaces at Neftit, and contributed to real wallet flows. Solidity · React · JavaScript · Web3.
 
 
 ## 🌐 Socials:
